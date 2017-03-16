@@ -1,0 +1,7 @@
+site_commerce:
+    resource: "@SiteCommerceBundle/Resources/config/routing.yml"
+    prefix:   /
+
+MyAppFilmothequeBundle:
+    resource: "@MyAppFilmothequeBundle/Resources/config/routing.yml"
+    prefix:   /myapp
